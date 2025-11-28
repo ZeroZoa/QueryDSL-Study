@@ -1,4 +1,4 @@
-# QueryDSL 핵심 정리 및 실무 활용 가이드
+# QueryDSL-Study
 
 ## 1. QueryDSL이란?
 
